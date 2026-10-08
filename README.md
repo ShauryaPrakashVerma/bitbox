@@ -130,7 +130,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@Killerbrine06](https://github.com/Killerbrine06) | binary_to_octal |
 | [@AashishGupta2007](https://github.com/AashishGupta2007) | digit_sum |
 | [@divyanshsinghtomar-ds](https://github.com/divyanshsinghtomar-ds) | subtract_days |
-| [@ShauryaPrakashVerma](https://github.com/ShauryaPrakashVerma) | count_lowercase, count_uppercase, count_non_vowels, is_vowel, count_consonants |
+| [@ShauryaPrakashVerma](https://github.com/ShauryaPrakashVerma) | count_lowercase, count_uppercase, count_non_vowels, is_vowel, count_consonants, pig_latin, initials |
 
 | [@GabrielTrifoni](https://github.com/GabrielTrifoni) | digits_product, char_at |
 | [@fathirramadhan-web](https://github.com/fathirramadhan-web) | intersection_of_lists |
@@ -145,5 +145,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@Solaris-star](https://github.com/Solaris-star) | binary_to_decimal, caesar_cipher, char_frequency, chunk_list, clamp, current_timestamp, date_to_timestamp, days_between, divide, fibonacci, file_size_human, hex_to_rgb, html_unescape, ini_get, is_credit_card, is_email, is_leap_year, is_prime, is_url, json_minify, json_prettify, levenshtein_distance, line_count, md5_hash, modulo, path_normalize, path_parent, percentage, power, roman_to_int, rotate_list, sha1_hash, strip_html, timestamp_to_date, week_of_year, word_frequency, word_wrap, xml_escape, zip_lists |
 | [@sajjadlabx](https://github.com/sajjadlabx) | word_char_ratio |
 | [@DYNOSuprovo](https://github.com/DYNOSuprovo) | character_appearances |
+| [@yuefdev](https://github.com/yuefdev) | rotate_string |
 
 <!-- Contributors are added automatically after PRs are merged -->
