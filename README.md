@@ -117,6 +117,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@0xCrimsonSky](https://github.com/0xCrimsonSky) | count_occurrences |
 | [@AshSgDe29071999](https://github.com/AshSgDe29071999) | repeat_char |
 | [@mmaxjr](https://github.com/mmaxjr) | index_of |
+| [@odemjan](https://github.com/odemjan) | reverse_vowels |
 
 | [@dreamqwq114-del](https://github.com/dreamqwq114-del) | has_lowercase |
 | [@ncmoore55](https://github.com/ncmoore55) | has_uppercase |
